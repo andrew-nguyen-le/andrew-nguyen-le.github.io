@@ -104,7 +104,6 @@ header nav ul {
 }
 
 .project-info-section {
-    padding: 0 2em;
     width: auto;
 }
 
@@ -130,7 +129,7 @@ h1 {
     text-align: center;
     font-family: "Nunito-Light", serif;
     font-size: var(--blurbSize);
-    padding: 0 5em;
+    padding: 0 2em;
 }
 
 
@@ -352,6 +351,10 @@ video:hover {
     .bio-container p {
         font-size: 1.5em;
         text-align: left;
+    }
+
+    .blurb {
+        padding: 0 1em;
     }
 
     .banner-image {
